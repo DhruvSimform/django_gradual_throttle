@@ -56,10 +56,10 @@ redis = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/django-gradual-throttle"
-Documentation = "https://github.com/yourusername/django-gradual-throttle#readme"
-Repository = "https://github.com/yourusername/django-gradual-throttle"
-"Bug Reports" = "https://github.com/yourusername/django-gradual-throttle/issues"
+Homepage = "https://github.com/DhruvSimform/django_gradual_throttle"
+Documentation = "https://github.com/DhruvSimform/django_gradual_throttle"
+Repository = "https://github.com/DhruvSimform/django_gradual_throttle"
+"Bug Reports" = "https://github.com/DhruvSimform/django_gradual_throttle"
 
 [tool.setuptools.packages.find]
 include = ["django_gradual_throttle*"]
